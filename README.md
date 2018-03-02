@@ -20,5 +20,7 @@
    也就是 ` git commit -m 'description' ` ，
 
  * 通过 ` git push ` 提交至之前clone的那个仓库中 
- 
+   
+ 	经过测试，通过 ` git ` 直接编辑的md，也可以是使用markdown语法
+
 #Git_use
