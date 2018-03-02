@@ -24,7 +24,7 @@
 第四步:去GitHub上创建自己的Repository，点击NewRepository 如下图所示：
 ----
 
-！[create repository]('./image.png')
+<img style="display:block;margin:0 auto;" src='./image.png'>
 
 	点击CreateRepository，就会进入到类似的一个页面，拿到创建的仓库的https地址
 
